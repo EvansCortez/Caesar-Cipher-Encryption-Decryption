@@ -1,6 +1,6 @@
 # Caesar Cipher Encryption/Decryption Tool
 
-A simple Python program to encrypt and decrypt text using the Caesar Cipher algorithm.
+A simple program to encrypt and decrypt text using the Caesar Cipher algorithm. Implemented in **C++**, **Java**, and **Python**.
 
 ---
 
@@ -32,16 +32,37 @@ The Caesar Cipher is one of the simplest encryption techniques. It works by shif
 - Decrypt ciphertext using the same shift value.
 - Handles both uppercase and lowercase letters.
 - Non-alphabet characters (e.g., numbers, symbols) remain unchanged.
+- Implemented in **C++**, **Java**, and **Python**.
 
 ---
 
 ## **Installation**
-1. Ensure you have Python installed on your system. You can download it from [python.org](https://www.python.org/).
-2. Clone this repository or download the `encrypt.py` file.
-
+### **C++**
+1. Ensure you have a C++ compiler installed (e.g., `g++` or `clang++`).
+2. Compile the program:
+   ```bash
+   g++ -std=c++11 caesar_cipher.cpp -o caesar_cipher
 ---
 
 ## **Usage**
 1. Run the program:
    ```bash
    python encrypt.py
+
+   
+---
+
+### **Key Sections Explained**
+1. **Introduction**: Briefly describe the project and its purpose.
+2. **How It Works**: Explain the Caesar Cipher algorithm.
+3. **Features**: Highlight the key functionalities of your tool.
+4. **Installation**: Provide instructions for setting up the project in C++, Java, and Python.
+5. **Usage**: Explain how to run the program and use its features.
+6. **Examples**: Show sample inputs and outputs.
+7. **Contributing**: Encourage others to contribute to your project.
+8. **License**: Specify the license under which the project is distributed.
+
+---
+
+### **Contact**
+- Add a **FAQ section** to address common questions.
